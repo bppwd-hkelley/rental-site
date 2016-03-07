@@ -1,0 +1,48 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#header ul {
+	float: right;
+	list-style: none;
+	background-color: #aedaef;
+	border-bottom-left-radius: 25px;
+}
+
+#header ul li {
+	float: left;
+	margin-right: 10px;
+}
+
+ .clear {
+ 	clear: both;
+ }
+
+ #header {
+ 	background-color: #3399cc; 
+ }
+
+ .carousel-inner img {
+  margin: auto;
+}
+
+#columns {
+	text-align: center;
+}
+
+#aboutRow h3 {
+	text-align: center;
+}
+
+#footer {
+	margin-top: 2%;
+	text-align: center;
+}
+
+#aboutRow {
+	margin-top: 2%;
+}
+
+#header {
+	margin-bottom: 2%;
+}
